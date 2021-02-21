@@ -12,6 +12,6 @@
             <tag name="validator.constraint_validator" alias="respect_validation" />
         </service>
 
-        <service id="Respect\Validation\Validator" alias="habibun.respect_validator" public="false" />
+        <service id="Respect\Validation\Validator" alias="respect.validator" public="false" />
     </services>
 </container>
