@@ -11,5 +11,7 @@
             <argument type="service" id="respect.validator" />
             <tag name="validator.constraint_validator" alias="respect_validation" />
         </service>
+
+        <service id="Respect\Validation\Validator" alias="habibun.respect_validator" public="false" />
     </services>
 </container>
