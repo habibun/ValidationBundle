@@ -1,9 +1,9 @@
 <?php
 
-namespace Respect\ValidationBundle\Validator\Constraints;
+namespace Habibun\RespectValidationBundle\Validator\Constraints;
 
 use Symfony\Component\Validator\Constraint;
-use Respect\ValidationBundle\Validator\ConstraintValidator;
+use Habibun\RespectValidationBundle\Validator\ConstraintValidator;
 
 /**
  * @Annotation

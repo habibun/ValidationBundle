@@ -1,6 +1,6 @@
 <?php
 
-namespace Respect\ValidationBundle;
+namespace Habibun\RespectValidationBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

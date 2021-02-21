@@ -1,8 +1,8 @@
 <?php
 
-namespace Respect\ValidationBundle\Validator\Constraints;
+namespace Habibun\RespectValidationBundle\Validator\Constraints;
 
-use Respect\ValidationBundle\Validator\Constraint;
+use Habibun\RespectValidationBundle\Validator\Constraint;
 
 /**
  * @Annotation

@@ -1,6 +1,6 @@
 <?php
 
-namespace Respect\ValidationBundle\DependencyInjection;
+namespace Habibun\RespectValidationBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

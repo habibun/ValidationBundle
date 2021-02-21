@@ -1,6 +1,6 @@
 <?php
 
-namespace Respect\ValidationBundle\Validator;
+namespace Habibun\RespectValidationBundle\Validator;
 
 use Symfony\Component\Validator\Constraint as SymfonyConstraint;
 
